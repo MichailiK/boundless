@@ -39,7 +39,8 @@ You're now good to go! Double-click the modpack (or hit the launch button) to st
 
 1. Download the latest mods ZIP file from the `#releases` channel in the Boundless SMP Discord:\
    ![Screenshot of a Discord message with 2 attachments, highlighting the attachment labeled mods-x.x.zip](./discord_download_update.png)
-2. Open the folder where your mods are currently installed. In Prism Launcher, this can be accessed via clicking **Edit -> Mods -> View Folder**.
+2. Open the folder where your mods are currently installed. 
+ - In Prism Launcher, this can be accessed via clicking **Edit -> Mods -> View Folder**.
 3. Open the `mods.zip` file with any ZIP software of your choosing (e.g. WinRAR, 7Zip, etc.).
-4. Drag the contents of the `mods` folder (i.e. the JAR files inside it) into the folder containing your currently installed mods.
-   If asked, replace any existing files with the ones you've just dragged in.
+4. Drag the contents of the `mods` folder (i.e. the JAR files inside it) into the folder containing your currently installed mods.  
+- If asked, replace any existing files with the ones you've just dragged in.
